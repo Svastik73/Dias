@@ -3,8 +3,7 @@ To run it local:
 <br>
 
 <h2> Video </h2>
-
-[Click here to watch the video](images_ss/media1_nqgABSF4.mp4)
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/Svastik73/Dias/blob/main/images_ss/media1_nqgABSF4.mp4)
 <h2> Screenshots </h2>
 <div style="display:flex;">
 
