@@ -4,12 +4,7 @@ To run it local:
 
 <h2> Video </h2>
 
-<video width="320" height="240" controls autoplay>
-  <source src="images_ss/media1_nqgABSF4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+[Click here to watch the video](images_ss/media1_nqgABSF4.mp4)
 <h2> Screenshots </h2>
 <div style="display:flex;">
 
