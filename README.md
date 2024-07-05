@@ -1,5 +1,5 @@
-Note: This site wont work on github-pages ... <br>
-To run it local:
+Note: This site wont work on github-pages ... Look out for methods at last. <br>
+
 <br>
 
 <h2> Video </h2>
