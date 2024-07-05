@@ -1,1 +1,2 @@
-Stores images required for documentation
+Stores images and videos required for documentation.
+
