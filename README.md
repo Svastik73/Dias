@@ -5,7 +5,7 @@ To run it local:
 <h2> Video </h2>
 <div style="display:flex">
      <div style="flex:1;padding-right:1000px;">
-          <img src="images_ss/Media1.gif" width="500"/>
+          <img src="images_ss/Media1.gif" width="300"/>
      </div>
 </div>
 <div style="display:flex;">
