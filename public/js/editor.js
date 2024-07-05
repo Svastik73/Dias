@@ -82,6 +82,7 @@
                 let docName = `${blogTitle}-${id}`;
                 let date = new Date();
                 set(ref(db,'user/'+docName),{   // this method is for real time database not firestore
+                   //above line sets doc with name docName under user folder in firebase
                     title: blogTitleField.value,
                     article: articleFeild.value,
                     bannerImage: bannerPath,

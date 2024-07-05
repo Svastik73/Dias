@@ -45,3 +45,10 @@
     font-size: 40px;
     margin-top: 80px;
 }
+
+.sub-heading{
+    text-decoration: none;
+}
+ .sub-heading :hover{
+    text-decoration: dotted;
+}
