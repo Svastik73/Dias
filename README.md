@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/blogging-site.git
-    cd blogging-site
+    git clone https://github.com/Svastik73/Dias.git
+    cd Dias
     ```
 
 2. **Install dependencies:**
