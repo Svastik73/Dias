@@ -37,6 +37,9 @@ Before you begin, ensure you have the following installed on your machine:
     ```sh
     npm install
     ```
+3. ** Install more dependencies**
+   ```sh
+     npm i express.js nodemon express-fileupload
 
 ## Running the Application
 
